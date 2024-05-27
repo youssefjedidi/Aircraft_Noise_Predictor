@@ -1,4 +1,4 @@
-# ML Regression Models for Aircraft Noise Prediction
+# Machine Learning Regression Models for Aircraft Noise Prediction
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1520437358207-323b43b50729?q=80&w=800&auto=format&fit=max&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Aircraft Noise">
